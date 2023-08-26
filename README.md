@@ -2,11 +2,19 @@
 
 This repo is to show weather analysis on Summer (May - August 2023) weather
 
-Show June - August 2023 weather data (covered by open weather map)
-Calculate the highest temperature in each month (given by owm)
-Calculate the weighted average highest temperature for each summer month
-Calculate how long the heat lingers (how many hours it stays above triple digits) (No one keeps hourly data)
-Calculate feels like temperature
-Calculate weighted average feels like temperature
-Show number of consecutive hot days
+<br>
+
+#### Summer 2023 Weather Distribution
+
+![Summer 2023 Weather Distribution](ContentCreation/1.%20Summer%202023%20Max%20Weather.png)
+
+#### Summer 2023 Monthly Weather Distribution
+![Summer 2023 Monthly Distribution](ContentCreation/3.%20Max%20Temperature%20Bar%20Plot.png)
+
+#### Summer 2023 Max Temp Weather Distribution
+![Summer 2023 Weather Distribution](ContentCreation/5a.%20Max%20Temperature%20Comparison%20Plot.png)
+
+
+
+
 
